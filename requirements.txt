@@ -1,0 +1,2 @@
+streamlit==1.36.0 # Or the version you are using
+requests==2.32.3 # For making HTTP requests to your FastAPI backend
