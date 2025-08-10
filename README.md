@@ -9,3 +9,4 @@ Developed dynamic SQL queries to extract and present relevant patient test resul
 
 Architected the system for future expansion into a full-featured hospital management platform, including functionalities like bed availability tracking and billing management.
 
+<!-- Failed to upload "Patient Medical Records Chatbot - Personal - Microsoft​ Edge 2025-08-09 23-36-05.mp4" -->
