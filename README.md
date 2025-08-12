@@ -10,3 +10,6 @@ An interactive chatbot application built with FastAPI (backend) and Streamlit (f
 🔹 Scalable Architecture – Designed for future upgrades into a full hospital management system, including bed availability, billing, and more.
 
 Tech Stack: FastAPI · Streamlit · MySQL · Python · FuzzyWuzzy
+
+
+https://github.com/user-attachments/assets/4863617a-f730-43c8-b203-68d14038445f
