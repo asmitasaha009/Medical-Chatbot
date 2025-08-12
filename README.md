@@ -1,12 +1,9 @@
-# Medical-Chatbot
-Created a chatbot application using FastAPI for the backend and Streamlit for the frontend to enable easy retrieval of patient medical records from a MySQL database.
+🏥 Medical Chatbot – Patient Record Retrieval System
+An interactive chatbot application built with FastAPI (backend) and Streamlit (frontend) for seamless retrieval of patient medical records from a MySQL database.
 
-Allowed users to search patient data through natural language queries.
+🔹 Natural Language Search – Enables users to query patient data conversationally.
+🔹 Fuzzy String Matching – Handles typos and spelling variations, boosting search accuracy.
+🔹 Dynamic SQL Generation – Fetches and displays patient test results & medical conditions in real time.
+🔹 Scalable Architecture – Designed for future upgrades into a full hospital management system, including bed availability, billing, and more.
 
-Integrated fuzzy string matching to handle spelling errors and enhance search accuracy.
-
-Developed dynamic SQL queries to extract and present relevant patient test results and medical conditions.
-
-Architected the system for future expansion into a full-featured hospital management platform, including functionalities like bed availability tracking and billing management.
-
-<!-- Failed to upload "Patient Medical Records Chatbot - Personal - Microsoft​ Edge 2025-08-09 23-36-05.mp4" -->
+Tech Stack: FastAPI · Streamlit · MySQL · Python · FuzzyWuzzy
